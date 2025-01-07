@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd091f30-39bd-4817-a4b9-de55f547f55e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlegBurov88&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OlegBurov88/Module_12.git&quot;,
+    &quot;accountId&quot;: &quot;a379aba1-8020-4d2c-8e4f-8db14eeba1a6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rFxLMqqRdTxNKQefGxZ3su52Qx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_calk_unittest.py.executor": "Run",
+    "Python tests.Python tests in tests_12_1.py.executor": "Run",
+    "Python tests.Python tests in tests_12_2.py.executor": "Run",
+    "Python tests.Python tests in tests_12_3.py.executor": "Run",
+    "Python.calk.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.runner.executor": "Run",
+    "Python.runner_and_tournament.executor": "Run",
+    "Python.suite_12_3.executor": "Run",
+    "Python.test_calk.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Module_12" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd091f30-39bd-4817-a4b9-de55f547f55e" name="Changes" comment="" />
+      <created>1736168568014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736168568014</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Лекция. Идея Юнит-тестирования">
+      <option name="closed" value="true" />
+      <created>1736170613722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736170613722</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Лекция. Простые Юнит-тесты">
+      <option name="closed" value="true" />
+      <created>1736171862767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736171862767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Лекция. Простые Юнит-тесты">
+      <option name="closed" value="true" />
+      <created>1736171865780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736171865780</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание по теме &quot;Простые Юнит-Тесты&quot;">
+      <option name="closed" value="true" />
+      <created>1736172916022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736172916022</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашнее задание по теме &quot;Простые Юнит-Тесты&quot;">
+      <option name="closed" value="true" />
+      <created>1736172918432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736172918432</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;">
+      <option name="closed" value="true" />
+      <created>1736183467383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736183467383</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;">
+      <option name="closed" value="true" />
+      <created>1736183468833</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736183468833</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Лекция. Идея Юнит-тестирования" />
+    <MESSAGE value="Лекция. Простые Юнит-тесты" />
+    <MESSAGE value="Домашнее задание по теме &quot;Простые Юнит-Тесты&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
