@@ -50,12 +50,14 @@
     "Python tests.Python tests in tests_12_1.py.executor": "Run",
     "Python tests.Python tests in tests_12_2.py.executor": "Run",
     "Python tests.Python tests in tests_12_3.py.executor": "Run",
+    "Python tests.Python tests in tests_12_4.py.executor": "Run",
     "Python.calk.executor": "Run",
     "Python.main.executor": "Run",
     "Python.runner.executor": "Run",
     "Python.runner_and_tournament.executor": "Run",
     "Python.suite_12_3.executor": "Run",
     "Python.test_calk.executor": "Run",
+    "Python.tests_12_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -93,6 +95,46 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests_12_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Module_12" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests_12_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tests_12_4.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Module_12" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests_12_4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in tests_12_4.py" />
+        <item itemvalue="Python.tests_12_4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -166,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736183468833</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Домашнее задание по теме &quot;Систематизация и пропуск тестов&quot;.">
+      <option name="closed" value="true" />
+      <created>1736265976253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736265976253</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,7 +224,8 @@
     <MESSAGE value="Лекция. Простые Юнит-тесты" />
     <MESSAGE value="Домашнее задание по теме &quot;Простые Юнит-Тесты&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Методы Юнит-тестирования&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Систематизация и пропуск тестов&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Систематизация и пропуск тестов&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
